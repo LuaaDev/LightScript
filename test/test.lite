@@ -1,0 +1,7 @@
+# This is a comment!
+
+print("Hi!"); # This is a print function
+# You do not really need the ;
+
+# To run a LiteScript file, you would need to run on the special LiteScript shell: lite("filenamehere.lite")
+# If there is a folder, you just do: lite("foldernamehere/filenamehere.lite")
