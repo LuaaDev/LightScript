@@ -2,7 +2,7 @@
 <p>
 
 # What is LiteScript
-LiteScript is a pretty flexible, fun and beginner friendly language like. And we have some syntaxes from other languages like: Python, JavaScript and Lua. LiteScript has tons of cool commands!
+LiteScript is a pretty flexible, fun and beginner friendly language. And we have some syntaxes from other languages: Python, JavaScript and Lua. LiteScript has tons of cool commands, go do them yourself!!
 
 # What are those commands
 Some of them are:
@@ -38,10 +38,10 @@ And more...
 
 # How do I beging?
 <p>
-If you want to start learning about it, then go to LiteScript docs and a big thanks from LuaaDev for using my language 😄
+If you want to start learning about it, then go to the LiteScript documentations and a big thanks for using my language 😄!!
 </p>
 
-# I do not understand anything
+# I do not understand something
 <p>
 Do not worry!
 
