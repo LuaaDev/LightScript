@@ -47,5 +47,5 @@ And more...
 <p>
 Do not worry!
 
-Me, LuaaDev. Understands that you may not understand some things about the language. If you want some help about LiteScript (or you want to see something about the language) you can visit our [Official LiteScript Discord Server](https://discord.gg/Hhwqce2xjS)!
+Me, LuaaDev understands that you may not understand some things about the language. If you want some help about LiteScript (or you want to see something about the language) you can visit our [Official LiteScript Discord Server](https://discord.gg/Hhwqce2xjS)!
 </p>
