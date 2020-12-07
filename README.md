@@ -1,15 +1,8 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p>
 
-# What is LiteScript
-LiteScript is a pretty flexible, fun and beginner friendly language. And we have some syntaxes from other languages: Python, JavaScript and Lua. LiteScript has tons of cool commands, go do them yourself!!
-
-# How do I start using it?
-<p>
-If you want to start learning about it, then go to the LiteScript documentations and a big thanks for using my language 😄!!
-
-To run a '.lite' file, you would need to run this command on the shell: `lite("filenamehere.lite")`, and thats it. But if the file is on a folder, what I should do? Simple! just do: `lite("foldernamehere/filenamehere.lite")`
-</p>
+# What is LightScript
+LightScript is a pretty flexible, fun and beginner friendly language like. And we have some syntaxes from other languages like: Python, JavaScript and Lua. LightScript has tons of cool commands!
 
 # What are those commands
 Some of them are:
@@ -43,9 +36,14 @@ shell:
 And more...
 <p>
 
-# I do not understand something
+# How do I begin?
+<p>
+If you want to start learning about it, I would recommend going to the LightScript docs and a big thanks from Luaa for using my language 😃
+</p>
+
+# I do not understand anything
 <p>
 Do not worry!
 
-Me, LuaaDev understands that you may not understand some things about the language. If you want some help about LiteScript (or you want to see something about the language) you can visit our [Official LiteScript Discord Server](https://discord.gg/Hhwqce2xjS)!
+If you need some help about LightScript (or you want to see something about the language) you can visit our [Official LightScript Discord Server](https://discord.gg/Hhwqce2xjS), or just visit the docs!
 </p>
